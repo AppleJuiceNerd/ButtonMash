@@ -1,0 +1,3 @@
+namespace bmash {
+	int one();
+}
